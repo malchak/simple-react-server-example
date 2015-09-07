@@ -1,0 +1,1 @@
+console.error("ReactifyError: /Users/malchak/Documents/React-Bits/simple-react-server-example/app.js: Parse Error: Line 11: Unexpected identifier while parsing file: /Users/malchak/Documents/React-Bits/simple-react-server-example/app.js");
